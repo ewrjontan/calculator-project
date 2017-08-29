@@ -1,2 +1,1 @@
-# calculator-project
-Calculator Project
+A calculator project created for Free Code Academy. Took quite some time as I attempted to make sure the app did not break for any reason. The code is probably very redundant and could use some cleaning up.
