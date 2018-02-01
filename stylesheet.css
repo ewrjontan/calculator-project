@@ -1,3 +1,14 @@
+body{
+  background: radial-gradient(circle, white, gray);
+  background-repeat: no-repeat;
+  /*-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+  background-attachment: fixed;
+  margin: 0;
+}
+
 #calculator{
    width: 300px;
    height: 450px;
