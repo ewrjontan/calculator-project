@@ -25,7 +25,7 @@
   text-align: right;
   font-size: 35px;
   position: relative;
-  top: 10px;
+  top: 0px;
   //top:15px//on my mac
   color: #898989;
   width: 98%;
@@ -40,7 +40,7 @@
   position: relative;
   color: #898989;
   width: 98%;
-  top: -20px;//on my mac
+  top: -30px;//on my mac
   margin-left: auto;
   margin-right: auto;
 }
